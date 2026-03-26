@@ -63,4 +63,4 @@ While building this project, I practiced:
 - Add mobile responsiveness
 - Add score tracking
 - Add difficulty modes
-- Improve animations and UI
+- Improve animations and UI.
